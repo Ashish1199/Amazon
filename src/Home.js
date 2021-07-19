@@ -35,11 +35,31 @@ function Home() {
                     title="Lume Cube Panel Mini with DSLR Camera Mount Bundle | Bicolor Continuous LED Video Light | Made for Content Creators | Photo and Video Lighting | Fits Sony, Nikon, Canon, Fuji, Panasonic"
                     price={79.95}
                     image="https://m.media-amazon.com/images/I/610NKjj9I-S._AC_UL480_FMwebp_QL65_.jpg"
-                    rating={2}/>
+                    rating={2}/>        
+                    <Product
+                    id="4"
+                    title="Philips QP2525/10 Cordless OneBlade Hybrid Trimmer and Shaver with 3 Trimming Combs (Lime Green)"
+                    price={100}
+                    image="https://m.media-amazon.com/images/I/718398O4TVL._AC_UL480_FMwebp_QL65_.jpg"
+                    rating={5}
+                    />
+                    <Product
+                    id="5"
+                    title="Dyson V10 Absolute Pro Cord-Free Vacuum (Copper)"
+                    price={1000}
+                    image="https://m.media-amazon.com/images/I/61Xp9nLb5QL._AC_UY327_FMwebp_QL65_.jpg"
+                    rating={4}
+                    />
                 </div>
 
                 <div className="home_row">
-                    {/* {Product}  */}
+                    <Product
+                    id="6"
+                    title="TCL 108 cm (43 inches) 4K Ultra HD Certified Android Smart LED TV 43P615 (Black) (2020 Model) | With Dolby Audio"
+                    price={250}
+                    image="https://m.media-amazon.com/images/I/613VLxnkEWS._AC_UL480_FMwebp_QL65_.jpg"
+                    rating={2}
+                    />
                 </div>
             </div>
         </div>
