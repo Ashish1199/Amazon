@@ -28,7 +28,7 @@ function Home() {
                     />
                     <Product
                     id="3"
-                    title="Lenovo Yoga Slim 7 Carbon 11th Gen Intel Core i7 13.3' QHD IPS Ultra-Light & Thin Laptop (16GB/1TB SSD/Windows 10/MS Office/Intel Iris Xe GFX/Carbon Fiber Material/Moon White/0.96 Kg), 82EV003WIN"
+                    title="Lenovo Yoga Slim 7 Carbon 11th Gen Intel Core i7 13.3' QHD IPS Ultra-Light"
                     price={500}
                     image="https://m.media-amazon.com/images/I/81exv0e1PQL._AC_UY327_FMwebp_QL65_.jpg"
                     rating={4}

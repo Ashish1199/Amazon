@@ -11,7 +11,7 @@ function Product({title,image,price,rating}) {
                     <strong>{price}</strong>
                 </p>
                 <div className="product_rating">
-                    {Array(rating).fill().map((_,i)=>(                    <p><img style={{'width':'2rem'}} src="https://img.icons8.com/emoji/48/000000/star-emoji.png"/></p>))}
+                    {Array(rating).fill().map((_,i)=>(<p><img style={{'width':'2rem'}} src="https://img.icons8.com/emoji/48/000000/star-emoji.png"/></p>))}
                 </div>
             </div>
             <img src={image} alt="" />
